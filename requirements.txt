@@ -1,0 +1,7 @@
+streamlit
+rdkit
+meeko
+pandas
+numpy
+vina
+openpyxl
